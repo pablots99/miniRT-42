@@ -2,6 +2,12 @@ This project is a simple raytracer made in c using a simple graphics library(min
 
 parse_stl.py makes makes an rt file from a .stl file;
 
+<img width="780" alt="Screenshot 2022-01-25 at 17 10 57" src="https://user-images.githubusercontent.com/33934128/151014541-ea7e30c2-8c2c-4cf8-bfab-b80bd79ad8d4.png">
+
+<img width="797" alt="Screenshot 2022-01-25 at 16 52 45" src="https://user-images.githubusercontent.com/33934128/151013842-8e4ea9c9-97bd-4019-b289-e13fa6ae808c.png">
+
+<img width="998" alt="Screenshot 2022-01-25 at 17 10 39" src="https://user-images.githubusercontent.com/33934128/151014550-c09d246c-3242-4ede-b776-7fb2e009513f.png">
+
 Run(for now only on mac)
 
     1- Make install
@@ -9,6 +15,9 @@ Run(for now only on mac)
     2- Make bonus
 
     3- ./miniRT <scene.rt>
+    
+    <img width="522" alt="Screenshot 2022-01-25 at 17 06 05" src="https://user-images.githubusercontent.com/33934128/151013619-d2ef9dfc-b031-44d7-a916-27fda0d79ecd.png">
+
 
 Controls:
 
