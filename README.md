@@ -16,7 +16,7 @@ Run(for now only on mac)
 
     3- ./miniRT <scene.rt>
     
-    <img width="522" alt="Screenshot 2022-01-25 at 17 06 05" src="https://user-images.githubusercontent.com/33934128/151013619-d2ef9dfc-b031-44d7-a916-27fda0d79ecd.png">
+<img width="522" alt="Screenshot 2022-01-25 at 17 06 05" src="https://user-images.githubusercontent.com/33934128/151013619-d2ef9dfc-b031-44d7-a916-27fda0d79ecd.png">
 
 
 Controls:
